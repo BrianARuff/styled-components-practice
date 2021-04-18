@@ -1,0 +1,31 @@
+#board div:nth-child(1) .row:nth-child(odd) {
+  background: darkgreen;
+}
+
+#board div:nth-child(2) .row:nth-child(even) {
+  background: darkgreen;
+}
+
+#board div:nth-child(3) .row:nth-child(odd) {
+  background: darkgreen;
+}
+
+#board div:nth-child(4) .row:nth-child(even) {
+  background: darkgreen;
+}
+
+#board div:nth-child(5) .row:nth-child(odd) {
+  background: darkgreen;
+}
+
+#board div:nth-child(6) .row:nth-child(even) {
+  background: darkgreen;
+}
+
+#board div:nth-child(7) .row:nth-child(odd) {
+  background: darkgreen;
+}
+
+#board div:nth-child(8) .row:nth-child(even) {
+  background: darkgreen;
+}

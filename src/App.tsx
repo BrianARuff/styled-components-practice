@@ -3,7 +3,7 @@ import ChessBoard from "./ChessBoard/ChessBoard";
 
 export default function App() {
   return (
-    <div>
+    <div id="board">
       <ChessBoard />
     </div>
   );
